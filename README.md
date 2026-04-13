@@ -10,8 +10,3 @@ The best lore is **WARHAMMER 40K**!!!!
 - 📚 **Currently learning:** C++ and Python😀
 - 🛠 **Tools I use:** Microsoft Visual Studio, CLion, PyCharm😎
 - 🏎 **Interests:** Mercedes-Benz, sports, music and OOP logic😉
-
----
-
-### My Progress:
-![My Stats](https://vercel.app)
